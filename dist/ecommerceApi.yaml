@@ -232,7 +232,7 @@ components:
           type: string
           description: A message describing the error
     SingleProduct:
-      title: An object containing a one-object array containing a Product
+      title: Single Product
       type: object
       properties:
         items:
